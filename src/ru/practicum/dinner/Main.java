@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    static DinnerConstructor dc;
+    static DinnerConstructor dc; // конструктор ужин
     static Scanner scanner;
 
     public static void main(String[] args) {
