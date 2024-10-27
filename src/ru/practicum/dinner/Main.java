@@ -35,7 +35,7 @@ public class Main {
         System.out.println("3 - Выход");
     }
 
-    private static void addNewDish() {
+    private static void addNewDish() { //добавить новое блюдо
         System.out.println("Введите тип блюда:");
         String dishType = scanner.nextLine();
         System.out.println("Введите название блюда:");
